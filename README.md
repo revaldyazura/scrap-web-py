@@ -1,6 +1,7 @@
 # Web-Scrapping-BeautifulSoup-Sellenium
 ## A web scrapping text project using BeautifulSoup and Sellenium python library
-### To try it, follow these steps:
+### Scrapping quotes from [here](https://quotes.toscrape.com)
+#### To try it, follow these steps:
 - Clone this repository
 - Open in terminal and type:
 ``` 
