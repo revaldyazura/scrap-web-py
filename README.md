@@ -26,13 +26,3 @@ This program scrap spotify weekly top songs global from [here](https://quotes.to
     This command will start the program, and you'll see the charts on this link `http://127.0.0.1:5000/charts`.
 
 2. Database MySQL 'imdb_scrapping' akan diisi dengan 250 film teratas. Jika film sudah ada di database, maka akan diperbarui.
-
-## Catatan
-
-- Program ini berjalan pada versi Python 3.12
-- Pastikan server MySQL Anda berjalan sebelum menjalankan scraper.
-- Pastikan Anda memiliki versi ChromeDriver yang benar untuk browser Chrome Anda.
-
-## Extra
-
-Dibuat oleh Nhuravi
